@@ -1,0 +1,292 @@
+body {
+background-color: rgba(252, 140, 49, 0.863);
+background-image: url(https://static.wikia.nocookie.net/hypixel-skyblock/images/1/17/Hub_World_%28top_view%29.png/revision/latest?cb=20210701225519); 
+}
+
+h2 {
+text-align: center;
+color: #ff00ff;
+font-family: 'Mochiy Pop P One';
+}
+
+.spanh {
+text-align: center;
+}
+
+.hypixel {
+width: 400px;
+height: auto;
+}
+
+#divw {
+size: 25px;
+margin: 10px;
+padding-top: 100px;
+}
+
+
+
+#divn {
+text-align: center;
+position: relative;
+top: 75px;
+margin: 15px;
+}
+
+#divn2 {
+text-align: center;
+position: relative;
+top: 50px;
+margin: 15px;
+}
+
+#divn3 {
+text-align: center;
+position: relative;
+top: 50px;
+margin: 15px;
+}
+
+
+
+.nav {
+color: brown;
+margin: 10px;
+}
+
+.spann1 {
+border-style: solid;
+border-width: 5px;
+background-color: orange;
+border-color: darkbrown;
+color: brown;
+font-family: papyrus;
+margin: 100px;
+padding: 5px;
+font-size: 18px;
+}
+
+.spanb {
+color: darkbrown;
+margin: 75px;
+}
+
+#head {
+border-color: black;
+background-color: black;
+border-style: solid;
+height: 300px;
+position: relative;
+}
+
+#head2 {
+position: relative;
+text-align: center;
+color: orange;
+bottom: 5px;
+font-family: cooper;
+font-size: 30px;
+width: 200px;
+height: auto;
+top: 100px;
+}
+
+#hhead {
+position: relative;
+width: 10px;
+height: auto;
+bottom: 200px;
+}
+
+#background-base {
+border-color: #5a00b49d;
+background-color: #8000ff;
+border-style: solid;
+border-width: 5px;
+width: 80%;
+}
+
+#text {
+font-family: monospace;
+text-align: initial; 
+color: white;
+font-size: 17px;
+}
+
+.picture1 {
+position: relative;
+float: right;
+width: auto;
+height: auto;
+padding: 5px;
+}
+
+#div-center {
+text-align: center;
+}
+
+#nav-level {
+position: relative;
+right: 50px;
+}
+
+p {
+padding-bottom: 5px;
+padding: 5px;
+}
+
+#nav-side {
+text-align: right;
+font-family: papyrus;
+position: relative;
+}
+
+#nav-side1 {
+border-width: 5px;
+border-style: solid;
+border-color: brown;
+background-color: orange;
+text-align: right;
+left: 20px;
+top: 200px;
+position: relative;
+right: 5px;
+padding-top: 15px;
+padding-bottom: 15px;
+bottom: 0px;
+right: 0px;
+}
+
+#nav-side2 {
+border-width: 5px;
+border-style: solid;
+border-color: brown;
+background-color: orange;
+text-align: right;
+left: 50px;
+top: 350px;
+position: relative;
+padding-top: 15px;
+padding-bottom: 15px;
+bottom: 0px;
+right: 0px;
+}
+
+#nav-side3 {
+position: relative;
+border-width: 5px;
+border-style: solid;
+border-color: brown;
+background-color: orange;
+text-align: right;
+left: 20px;
+top: 500px;
+padding-top: 15px;
+padding-bottom: 15px;
+bottom: 0px;
+right: 0px;
+}
+
+#span-margin {
+margin: 65px;
+font-size: 25px;
+position: relative;
+}
+
+.spanb2 {
+margin: 50px;
+position: relative;
+}
+
+#headt1 {
+position: relative;
+text-align: center;
+color: orange;
+bottom: 40px;
+font-family: cooper;
+font-size: 30px;
+width: 200px;
+height: auto;
+}
+
+a {
+z-index: 1;
+position: relative;
+}
+
+#nav-side2st1 {
+border-width: 5px;
+border-style: solid;
+border-color: brown;
+background-color: orange;
+text-align: right;
+left: 25px;
+top: 350px;
+position: relative;
+padding-top: 15px;
+padding-bottom: 15px;
+bottom: 0px;
+right: 0px;
+}
+#headt2 {
+position: relative;
+text-align: center;
+color: orange;
+bottom: 70px;
+font-family: cooper;
+font-size: 30px;
+width: 200px;
+height: auto;
+
+}
+#headt3 {
+position: relative;
+text-align: center;
+color: orange;
+bottom: 70px;
+font-family: cooper;
+font-size: 30px;
+width: 200px;
+height: auto;
+
+}
+.picture2 {
+position: relative;
+float: left;
+width: auto;
+height: auto;
+padding: 5px;
+}
+.ratesf {
+    font-size: 30px;
+    font-family: monospace;
+    margin: 10px;
+    color: yellow;
+}
+#hovero {
+    position: absolute;
+    width: 350px;
+    height: auto;
+    display: none;
+    right: 0px;
+    top: 800px;
+    z-index: 8000;
+}
+.sb {
+    bottom: 170px;
+    position: relative;
+}
+footer {
+    text-align: left;
+    font-family: none;
+    size: 20px;
+}
+#hovero2 {
+    position: absolute;
+    display: none;
+    z-index: 8000;
+    top: 1050px;
+    left: 100px;
+    width: 350px;
+    height: auto;
+}
