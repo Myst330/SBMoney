@@ -1,4 +1,4 @@
-<img src="https://o.remove.bg/downloads/bd737160-de25-47da-a80b-64f90fc467da/70186527-61601080-16ec-11ea-8e0e-49c0f5e4edde-removebg-preview.png">
+<img style="padding-left: 200px;" src="https://o.remove.bg/downloads/bd737160-de25-47da-a80b-64f90fc467da/70186527-61601080-16ec-11ea-8e0e-49c0f5e4edde-removebg-preview.png">
 # Skyblock Money
 
 ## Why?
